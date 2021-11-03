@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">OfflineMessenger</string>
+    <string name="none_found">No devices found!</string>
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device</string>
+    <string name="search_for_devices">Search for devices</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="enable_bt">Enable Bluetooth</string>
+    <string name="send_button">Send</string>
+    <string name="scan_button">Scan</string>
+    <string name="back_button">Back</string>
+    <string name="loading">Laden...</string>
+</resources>
